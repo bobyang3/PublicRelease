@@ -1,2 +1,2 @@
 # PublicRelease
-Public Release so anyone can download
+Public Release so people can download what I created
